@@ -151,6 +151,11 @@ main {
     font-weight: 500;
 }
 
+.project-caption-1 {
+    font-weight: 500;
+    width: 80%;
+}
+
 .project-caption a {
     color: black;
 }
@@ -164,7 +169,7 @@ main {
 }
 
 .date-caption {
-    justify-self: end;
+    letter-spacing: -2px;
 }
 
 .main-title-1 {
