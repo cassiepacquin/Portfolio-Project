@@ -160,7 +160,7 @@ main {
     color: black;
 }
 
-.project-caption a:visited {
+.project-caption a:visited, .project-caption-1 a:visited {
     color: black;
 }
 
