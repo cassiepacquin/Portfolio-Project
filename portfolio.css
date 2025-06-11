@@ -156,7 +156,7 @@ main {
     width: 80%;
 }
 
-.project-caption a {
+.project-caption a, .project-caption-1 a {
     color: black;
 }
 
